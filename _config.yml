@@ -1,9 +1,9 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
+title: A Place to look back
+description: A place to put out my thoughts and experience to refer/look back on
+author: Ganesh Halthota
+github: https://github.com/ganesh737
+about: I'm a Systems Engineer working on Embedded SoftWare Update Solutions
+disqus_shortname: 
 google_analytics: UA-XXXXXXXX-Y
 
 enableTags: true
@@ -24,11 +24,11 @@ social:
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/ganesh737"
 
 share:
-  twitter_username: github.io
-  fb_appid: 1749788565247320
+  twitter_username: "#"
+  fb_appid: "#"
 
 urls:
     - text: About Me
@@ -38,7 +38,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://ganesh737.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
