@@ -1,9 +1,9 @@
-title: A Place to look back
-description: A place to put out my thoughts and experience to refer/look back on
+title: Sync Knowledge
+description: A blog to share what I know, and a personal reference
 author: Ganesh Halthota
 github: https://github.com/ganesh737
 about: I'm a Systems Engineer working on Embedded SoftWare Update Solutions
-disqus_shortname: 
+disqus_shortname: disqus_ganesh17
 google_analytics: UA-XXXXXXXX-Y
 
 enableTags: true
@@ -42,7 +42,7 @@ paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
 markdown: kramdown
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
 
