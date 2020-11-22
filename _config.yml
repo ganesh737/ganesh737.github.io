@@ -3,7 +3,7 @@ description: A blog to share what I know, and a personal reference
 author: Ganesh Halthota
 github: https://github.com/ganesh737
 about: I'm a Systems Engineer working on Embedded SoftWare Update Solutions
-disqus_shortname: disqus_ganesh17
+disqus_shortname: https-ganesh737-github-io
 google_analytics: UA-XXXXXXXX-Y
 
 enableTags: true
@@ -25,8 +25,8 @@ social:
       link: "https://github.com/ganesh737"
 
 share:
-  twitter_username: "#"
-  fb_appid: "#"
+  twitter_username: "ganesh_"
+  # fb_appid: "#"
 
 urls:
     - text: About Me
