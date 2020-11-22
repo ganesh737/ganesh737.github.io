@@ -15,14 +15,12 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
     - icon: fa-twitter
-      link: "#"
+      link: "https://twitter.com/ganesh_"
     - icon: fa-linkedin
-      link: "#"
+      link: "https://www.linkedin.com/in/ganesh-halthota/"
     - icon: fa-stack-exchange
-      link: "#"
+      link: "https://stackexchange.com/users/3387741/ganesh737"
     - icon: fa-github
       link: "https://github.com/ganesh737"
 
