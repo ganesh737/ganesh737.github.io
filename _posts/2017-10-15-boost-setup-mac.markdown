@@ -1,8 +1,9 @@
 ---
 layout: post
+comments: true
 title:  "Setting up Boost on MAC"
 date:   2017-10-15 21:35:00 +0530
-categories: [boost]
+categories: [boost, macos, xcode]
 ---
 I wanted Boost for programming to use some of the functionality not provided on the standard library.
 
