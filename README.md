@@ -75,6 +75,14 @@ bundle install
 jekyll serve
 ```
 
+The same can be done with docker -
+```
+docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll jekyll build
+docker run --name blog_ganesh737 --volume="$PWD:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll jekyll serve --watch --drafts
+```
+
+From next time, only the container needs to be run for local debugging
+
 ### Contributing
 
 Feel free to [open a bug](https://github.com/agusmakmun/agusmakmun.github.io/issues) or [contribute to code](https://github.com/agusmakmun/agusmakmun.github.io/pulls)!
